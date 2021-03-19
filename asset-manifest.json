@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Al-ihsan-hostel-demo-app/static/css/main.6d8db634.chunk.css",
+    "main.js": "/Al-ihsan-hostel-demo-app/static/js/main.cd846a7d.chunk.js",
+    "main.js.map": "/Al-ihsan-hostel-demo-app/static/js/main.cd846a7d.chunk.js.map",
+    "runtime-main.js": "/Al-ihsan-hostel-demo-app/static/js/runtime-main.44d20fdb.js",
+    "runtime-main.js.map": "/Al-ihsan-hostel-demo-app/static/js/runtime-main.44d20fdb.js.map",
+    "static/js/2.7143b5f9.chunk.js": "/Al-ihsan-hostel-demo-app/static/js/2.7143b5f9.chunk.js",
+    "static/js/2.7143b5f9.chunk.js.map": "/Al-ihsan-hostel-demo-app/static/js/2.7143b5f9.chunk.js.map",
+    "index.html": "/Al-ihsan-hostel-demo-app/index.html",
+    "static/css/main.6d8db634.chunk.css.map": "/Al-ihsan-hostel-demo-app/static/css/main.6d8db634.chunk.css.map",
+    "static/js/2.7143b5f9.chunk.js.LICENSE.txt": "/Al-ihsan-hostel-demo-app/static/js/2.7143b5f9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Al-ihsan-hostel-demo-app/static/media/img-8.fabdf94d.jpg",
+    "static/media/Sideeq.css": "/Al-ihsan-hostel-demo-app/static/media/img-6.d125e564.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44d20fdb.js",
+    "static/js/2.7143b5f9.chunk.js",
+    "static/css/main.6d8db634.chunk.css",
+    "static/js/main.cd846a7d.chunk.js"
+  ]
+}
