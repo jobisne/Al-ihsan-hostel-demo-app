@@ -20,13 +20,13 @@ function Cards() {
               src='images/img-5.jpg'
               text='DARUL RIFAS HOSTEL (OLOHUNDA ABA)'
               label='View more'
-              path='/products'
+              path='/sideeq'
             />
             <CardItem
               src='images/img-1.jpg'
               text='DARUL FARUUQ HOSTEL (OLOHUNDA ABA)'
               label='View more'
-              path='/sign-up'
+              path='/sideeq'
             />
           </ul>
           <ul className='cards__items'>
@@ -34,19 +34,19 @@ function Cards() {
               src='images/img-4.jpg'
               text='DARUL KHALID HOSTEL (OLOHUNDA ABA)'
               label='Mystery'
-              path='/services'
+              path='/sideeq'
             />
             <CardItem
               src='images/img-2.jpg'
               text='DARUL IMAAN HOSTEL (OLOHUNDA ABA)'
               label='Adventure'
-              path='/products'
+              path='/sideeq'
             />
             <CardItem
               src='images/img-6.jpg'
               text='DARUL IMAAN HOSTEL (OLOHUNDA ABA)'
               label='Adrenaline'
-              path='/sign-up'
+              path='/sideeq'
             />
           </ul>
         </div>

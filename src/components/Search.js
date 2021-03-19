@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-
+import './Search.css';
  class Search extends 
 Component{
   state = {
@@ -19,7 +19,7 @@ Component{
   onChange = (e) => this.setState({ [e.target.name]: e.target.value });
 render(){
     return (
-      <div>
+      <div className='container'>
          <form className="form" onSubmit={this.onSubmit}>
           <input type="text" 
           placeholder="Search Users..." 
