@@ -22,7 +22,7 @@ render(){
       <div className='container'>
          <form className="form" onSubmit={this.onSubmit}>
           <input type="text" 
-          placeholder="Search Users..." 
+          placeholder="Search Student..." 
           name="text"
           value = {this.state.text}
           onChange={this.onChange}/>
